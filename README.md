@@ -6,6 +6,9 @@ Code from my master's thesis project
 
 - input data can be found in *_data folders and in the dino_Ps.mat file and dino_imgs_input folder for the dino data
 
+Dinosaur dataset is from the University of Oxford Robotics Research Group
+Bird and Beethoven datasets are from the Technical University of Munich Computer Vision Group
+
 ### spacecarve.py
 
 - contains space carving class
