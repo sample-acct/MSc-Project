@@ -23,5 +23,5 @@ Bird and Beethoven datasets are from the Technical University of Munich Computer
 
 ### trajectory.py
 
-- file with trajectory generating functions
+- file with trajectory generating functions for visualization
 
